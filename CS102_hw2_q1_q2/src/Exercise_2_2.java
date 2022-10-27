@@ -1,3 +1,5 @@
+//Recursion find 0s in binary representation of an integer
+
 public class Exercise_2_2 {
     public static void main(String[] args) {
         System.out.println(ZeroInBinaryCount(100));

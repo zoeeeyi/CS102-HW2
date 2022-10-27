@@ -1,3 +1,5 @@
+//Find shortest string
+
 import java.util.Arrays;
 
 public class Exercise_1_2 {

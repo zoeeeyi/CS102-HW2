@@ -1,3 +1,5 @@
+//Check reverse strings
+
 public class Exercise_1_1 {
     static String string1 = "google";
     static String string2 = "elgoog";
